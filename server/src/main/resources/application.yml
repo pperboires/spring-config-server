@@ -17,7 +17,6 @@ spring:
           uri: https://github.com/pperboires/spring-config-server-repo
           basedir: target/config
 
-
 ---
 spring:
   profiles: cloud
