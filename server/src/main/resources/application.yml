@@ -15,7 +15,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/spring-cloud-samples/config-repo
+          uri: https://github.com/pperboires/spring-config-server/config-repo/{application}
           basedir: target/config
 
 ---
